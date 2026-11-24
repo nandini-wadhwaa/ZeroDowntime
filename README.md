@@ -166,9 +166,28 @@ while true; do
 done
 ```
 
-## Screenshots
+## Project Screenshots
 
-Project screenshots demonstrate the deployment dashboard, application versions, deployment history, automated rollback and availability testing.
+### Blue Environment — Version 1.0
+![Blue Environment](screenshots/blue.png)
+
+### Green Environment — Version 2.0
+![Green Environment](screenshots/green.png)
+
+### Deployment Activity
+![Deployment Activity](screenshots/deployment-activity.png)
+
+### Deployment History and Automatic Rollback
+![Deployment History](screenshots/history.png)
+
+### Zero-Downtime Testing
+![HTTP 200 Responses](screenshots/zero-downtime.png)
+
+### Docker Environment
+![Docker](screenshots/docker.png)
+
+### Live Application
+![Live Application](screenshots/live-application.png)
 
 ## Limitations
 
