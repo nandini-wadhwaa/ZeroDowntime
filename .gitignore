@@ -1,0 +1,24 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Runtime files
+*.log
+deployment_history.json
+active.txt
+previous.txt
+
+# Backup files
+app_backup.py
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
